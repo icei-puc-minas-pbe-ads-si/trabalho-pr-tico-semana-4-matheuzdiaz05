@@ -8,15 +8,17 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome: Matheus Henrique Dias Moreira
+- Matricula: 881586
+- Proposta de projeto escolhida: CATALOGO DE FILMES
 - Breve descrição sobre seu projeto:
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  COLOQUE A IMAGEM AQUI >>![Captura de tela 2025-04-11 202751](https://github.com/user-attachments/assets/27002a69-2fdc-4f33-b663-dc9a2170513b)
+
 
 ## Print da versão responsiva com Bootstrap
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  COLOQUE A IMAGEM AQUI >>![Captura de tela 2025-04-01 194232](https://github.com/user-attachments/assets/08ab18ad-ce35-4087-ba0a-adbf8fa9ef0d)
+
